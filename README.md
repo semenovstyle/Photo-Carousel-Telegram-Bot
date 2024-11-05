@@ -36,7 +36,7 @@ This bot allows Telegram users to create and share photo carousels in groups. Th
 
     bash
 
-git clone https://github.com/your-username/photo-carousel-bot.git
+git clone https://github.com/semenovstyle/Photo-Carousel-Telegram-Bot.git
 cd photo-carousel-bot
 
 Установите зависимости:
@@ -51,7 +51,7 @@ bash
 
     bash
 
-git clone https://github.com/your-username/photo-carousel-bot.git
+git clone https://github.com/semenovstyle/Photo-Carousel-Telegram-Bot.git
 cd photo-carousel-bot
 
 Install dependencies:
