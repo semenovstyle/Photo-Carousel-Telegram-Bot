@@ -1,5 +1,5 @@
 # Photo-Carousel-Telegram-Bot
-Этот проект представляет собой бота Telegram, который позволяет пользователям создавать фотокарусели и делиться ими в группе. Бот позволяет загружать фото, добавлять подписи и просматривать фото с навигацией "Назад" и "Вперед" прямо в группе.
+Это проект бота Telegram, который позволяет пользователям создавать фотокарусели и делиться ими в группе. Бот позволяет загружать фото, добавлять подписи и просматривать фото с навигацией "Назад" и "Вперед" прямо в группе.
 
 This project is a Telegram bot that allows users to create photo carousels and share them in a group. The bot enables photo uploads, adding captions, and browsing photos with "Back" and "Next" navigation directly in the group.
 Оглавление (Table of Contents)
@@ -68,7 +68,7 @@ bash
 
 bash
 
-python3 your_bot.py
+python3 carousel.py
 
 Добавьте бота в группу, где требуется создание каруселей. Начните с командой /start и следуйте инструкциям для загрузки фотографий и подписей.
 
@@ -76,7 +76,7 @@ Run the bot:
 
 bash
 
-python3 your_bot.py
+python3 carousel.py
 
 Add the bot to the group where carousel creation is needed. Start with the /start command and follow the instructions to upload photos and captions.
 Переменные окружения (Environment Variables)
